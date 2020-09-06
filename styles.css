@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   font-size: 16px;
@@ -56,6 +60,7 @@ header p {
   margin: 0 32px;
 }
 .works {
+  padding-top: 30px;
   margin-top: 90px;
 }
 
@@ -68,6 +73,7 @@ header p {
 }
 
 .about {
+  padding-top: 30px;
   background: #f2f2f3;
 }
 
@@ -100,6 +106,7 @@ header p {
 }
 
 .contact {
+  padding-top: 30px;
   background: #fff;
   color: #333;
   text-align: center;
